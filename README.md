@@ -6,7 +6,7 @@ You are strongly advised to start these before the tutorial so that you have tim
 questions you may have.
 
 ## 1. Set up the project
-hello
+hellow
 1. Go to <https://github.com/nicholsons/comp0034-1>
 2. Fork the repository. This creates a copy in your GitHub account.
 
